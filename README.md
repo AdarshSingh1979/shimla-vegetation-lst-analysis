@@ -27,5 +27,6 @@ The study compares satellite data from 2015 and 2025 to understand how vegetatio
 ## Data Source
 USGS EarthExplorer – Landsat 8 OLI/TIRS
 
+## Author
 Adarsh Singh  
 B.Tech ECE – NIT Delhi
