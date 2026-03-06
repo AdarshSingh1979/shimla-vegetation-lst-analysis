@@ -23,6 +23,13 @@ The study compares satellite data from 2015 and 2025 to understand how vegetatio
 2. Vegetation Gain: ~70 km²
 3. Net Vegetation Decline: ~112 km²
 4. Areas with vegetation loss show higher surface temperatures
+   
+<img width="1164" height="819" alt="NDVI" src="https://github.com/user-attachments/assets/9e6c580d-917b-45dd-ac20-76bfb1752c97" />
+
+<img width="1193" height="840" alt="LST" src="https://github.com/user-attachments/assets/c5bf1b14-fba6-4246-b9de-ae64517ad938" />
+
+<img width="1151" height="810" alt="NDVI   LST" src="https://github.com/user-attachments/assets/f7164d72-15eb-45fc-a689-1f6b3bff95b3" />
+
 
 ## Data Source
 USGS EarthExplorer – Landsat 8 OLI/TIRS
